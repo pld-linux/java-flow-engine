@@ -11,6 +11,7 @@ Release:	1
 License:	LGPL v2+
 Group:		Libraries/Java
 Source0:	http://downloads.sourceforge.net/jfreereport/%{srcname}-%{version}.zip
+# Source0-md5:	ba2930200c9f019c2d93a8c88c651a0f
 URL:		http://reporting.pentaho.org/
 BuildRequires:	ant
 BuildRequires:	java-flute
