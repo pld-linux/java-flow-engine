@@ -3,7 +3,6 @@
 %bcond_without	javadoc		# don't build javadoc
 
 %define		srcname	flow-engine
-%include	/usr/lib/rpm/macros.java
 Summary:	Pentaho Flow Reporting Engine
 Name:		java-%{srcname}
 Version:	0.9.4
